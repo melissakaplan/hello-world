@@ -1,2 +1,2 @@
 # hello-world
-It is me, Mel!
+My name is Mel! I like Barry's Bootcamp and Pizza! 
